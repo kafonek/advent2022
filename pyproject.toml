@@ -11,6 +11,7 @@ notebook = "^6.5.2"
 black = "^22.10.0"
 nb-black = "^1.0.7"
 isort = "^5.10.1"
+jupyterlab = "^3.5.0"
 
 [tool.poetry.dev-dependencies]
 
